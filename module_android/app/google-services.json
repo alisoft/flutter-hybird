@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "582105178639",
+    "project_id": "flutterhybird",
+    "storage_bucket": "flutterhybird.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582105178639:android:4d91b41eb45ec789e6b97a",
+        "android_client_info": {
+          "package_name": "dev.alisoft.apps.module_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582105178639-0qjknu4uuhgjjc1cg787enke4k649j4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5QpDC2iFABfmMcQeXywpJHcEw3A1N7kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582105178639-0qjknu4uuhgjjc1cg787enke4k649j4t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582105178639-ooijj0u6pkmt4jf907bg3t34mcf5i1fg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.alisoft.apps.module-ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+framework module quick_actions {
+  umbrella header "quick_actions-umbrella.h"
+
+  export *
+  module * { export * }
+}

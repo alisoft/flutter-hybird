@@ -1,0 +1,29 @@
+{
+  "name": "adjust_sdk",
+  "version": "4.29.1",
+  "summary": "Adjust Flutter SDK for iOS platform",
+  "description": "Adjust Flutter SDK for iOS platform.",
+  "homepage": "http://www.adjust.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Srdjan Tubin": "srdjan@adjust.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "Adjust": [
+      "4.29.6"
+    ]
+  }
+}

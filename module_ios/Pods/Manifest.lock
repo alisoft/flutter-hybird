@@ -1,0 +1,448 @@
+PODS:
+  - Adjust (4.29.6):
+    - Adjust/Core (= 4.29.6)
+  - Adjust/Core (4.29.6)
+  - adjust_sdk (4.29.1):
+    - Adjust (= 4.29.6)
+    - Flutter
+  - appsflyer_sdk (6.4.4):
+    - AppsFlyerFramework (= 6.5.2)
+    - Flutter
+  - AppsFlyerFramework (6.5.2):
+    - AppsFlyerFramework/Main (= 6.5.2)
+  - AppsFlyerFramework/Main (6.5.2)
+  - audioplayers (0.0.1):
+    - Flutter
+  - connectivity_plus (0.0.1):
+    - Flutter
+    - ReachabilitySwift
+  - device_info_plus (0.0.1):
+    - Flutter
+  - FinApplet (2.35.11)
+  - FinAppletExt (2.35.11):
+    - FinApplet (= 2.35.11)
+  - Firebase/Analytics (8.11.0):
+    - Firebase/Core
+  - Firebase/Core (8.11.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (~> 8.11.0)
+  - Firebase/CoreOnly (8.11.0):
+    - FirebaseCore (= 8.11.0)
+  - Firebase/Messaging (8.11.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (~> 8.11.0)
+  - firebase_analytics (9.1.2):
+    - Firebase/Analytics (= 8.11.0)
+    - firebase_core
+    - Flutter
+  - firebase_core (1.13.1):
+    - Firebase/CoreOnly (= 8.11.0)
+    - Flutter
+  - firebase_messaging (11.2.8):
+    - Firebase/Messaging (= 8.11.0)
+    - firebase_core
+    - Flutter
+  - FirebaseAnalytics (8.11.0):
+    - FirebaseAnalytics/AdIdSupport (= 8.11.0)
+    - FirebaseCore (~> 8.0)
+    - FirebaseInstallations (~> 8.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.7)
+    - GoogleUtilities/MethodSwizzler (~> 7.7)
+    - GoogleUtilities/Network (~> 7.7)
+    - "GoogleUtilities/NSData+zlib (~> 7.7)"
+    - nanopb (~> 2.30908.0)
+  - FirebaseAnalytics/AdIdSupport (8.11.0):
+    - FirebaseCore (~> 8.0)
+    - FirebaseInstallations (~> 8.0)
+    - GoogleAppMeasurement (= 8.11.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.7)
+    - GoogleUtilities/MethodSwizzler (~> 7.7)
+    - GoogleUtilities/Network (~> 7.7)
+    - "GoogleUtilities/NSData+zlib (~> 7.7)"
+    - nanopb (~> 2.30908.0)
+  - FirebaseCore (8.11.0):
+    - FirebaseCoreDiagnostics (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.7)
+    - GoogleUtilities/Logger (~> 7.7)
+  - FirebaseCoreDiagnostics (8.13.0):
+    - GoogleDataTransport (~> 9.1)
+    - GoogleUtilities/Environment (~> 7.7)
+    - GoogleUtilities/Logger (~> 7.7)
+    - nanopb (~> 2.30908.0)
+  - FirebaseInstallations (8.13.0):
+    - FirebaseCore (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.7)
+    - GoogleUtilities/UserDefaults (~> 7.7)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - FirebaseMessaging (8.11.0):
+    - FirebaseCore (~> 8.0)
+    - FirebaseInstallations (~> 8.0)
+    - GoogleDataTransport (~> 9.1)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.7)
+    - GoogleUtilities/Environment (~> 7.7)
+    - GoogleUtilities/Reachability (~> 7.7)
+    - GoogleUtilities/UserDefaults (~> 7.7)
+    - nanopb (~> 2.30908.0)
+  - Flutter (1.0.0)
+  - flutter_dynamic_icon (0.0.1):
+    - Flutter
+  - flutter_inappwebview (0.0.1):
+    - Flutter
+    - flutter_inappwebview/Core (= 0.0.1)
+    - OrderedSet (~> 5.0)
+  - flutter_inappwebview/Core (0.0.1):
+    - Flutter
+    - OrderedSet (~> 5.0)
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - flutter_native_splash (0.0.1):
+    - Flutter
+  - FlutterPluginRegistrant (0.0.1):
+    - adjust_sdk
+    - appsflyer_sdk
+    - audioplayers
+    - connectivity_plus
+    - device_info_plus
+    - firebase_analytics
+    - firebase_core
+    - firebase_messaging
+    - Flutter
+    - flutter_dynamic_icon
+    - flutter_inappwebview
+    - flutter_local_notifications
+    - flutter_native_splash
+    - google_mobile_ads
+    - home_widget
+    - icloud_storage
+    - in_app_review
+    - mop
+    - package_info_plus
+    - path_provider_ios
+    - permission_handler_apple
+    - qr_code_scanner
+    - quick_actions
+    - sentry_flutter
+    - share_plus
+    - shared_preferences_ios
+    - sign_in_with_apple
+    - sqflite
+    - store_redirect
+    - uni_links
+    - url_launcher_ios
+    - vibration
+    - webview_flutter_wkwebview
+    - workmanager
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - Google-Mobile-Ads-SDK (8.11.0):
+    - GoogleAppMeasurement (< 9.0, >= 7.0)
+    - GoogleUserMessagingPlatform (>= 1.1)
+  - google_mobile_ads (0.0.1):
+    - Flutter
+    - Google-Mobile-Ads-SDK (= 8.11.0)
+  - GoogleAppMeasurement (8.11.0):
+    - GoogleAppMeasurement/AdIdSupport (= 8.11.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.7)
+    - GoogleUtilities/MethodSwizzler (~> 7.7)
+    - GoogleUtilities/Network (~> 7.7)
+    - "GoogleUtilities/NSData+zlib (~> 7.7)"
+    - nanopb (~> 2.30908.0)
+  - GoogleAppMeasurement/AdIdSupport (8.11.0):
+    - GoogleAppMeasurement/WithoutAdIdSupport (= 8.11.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.7)
+    - GoogleUtilities/MethodSwizzler (~> 7.7)
+    - GoogleUtilities/Network (~> 7.7)
+    - "GoogleUtilities/NSData+zlib (~> 7.7)"
+    - nanopb (~> 2.30908.0)
+  - GoogleAppMeasurement/WithoutAdIdSupport (8.11.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.7)
+    - GoogleUtilities/MethodSwizzler (~> 7.7)
+    - GoogleUtilities/Network (~> 7.7)
+    - "GoogleUtilities/NSData+zlib (~> 7.7)"
+    - nanopb (~> 2.30908.0)
+  - GoogleDataTransport (9.1.2):
+    - GoogleUtilities/Environment (~> 7.2)
+    - nanopb (~> 2.30908.0)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUserMessagingPlatform (2.0.0)
+  - GoogleUtilities/AppDelegateSwizzler (7.7.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (7.7.0):
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Logger (7.7.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (7.7.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (7.7.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (7.7.0)"
+  - GoogleUtilities/Reachability (7.7.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (7.7.0):
+    - GoogleUtilities/Logger
+  - home_widget (0.0.1):
+    - Flutter
+  - icloud_storage (0.0.1):
+    - Flutter
+  - in_app_review (0.2.0):
+    - Flutter
+  - module_flutter (0.0.1):
+    - Flutter
+  - mop (0.1.1):
+    - FinApplet (= 2.35.11)
+    - FinAppletExt (= 2.35.11)
+    - Flutter
+  - MTBBarcodeScanner (5.0.11)
+  - nanopb (2.30908.0):
+    - nanopb/decode (= 2.30908.0)
+    - nanopb/encode (= 2.30908.0)
+  - nanopb/decode (2.30908.0)
+  - nanopb/encode (2.30908.0)
+  - OrderedSet (5.0.0)
+  - package_info_plus (0.4.5):
+    - Flutter
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - permission_handler_apple (9.0.2):
+    - Flutter
+  - PromisesObjC (2.0.0)
+  - qr_code_scanner (0.2.0):
+    - Flutter
+    - MTBBarcodeScanner
+  - quick_actions (0.0.1):
+    - Flutter
+  - ReachabilitySwift (5.0.0)
+  - Sentry (7.9.0):
+    - Sentry/Core (= 7.9.0)
+  - Sentry/Core (7.9.0)
+  - sentry_flutter (0.0.1):
+    - Flutter
+    - FlutterMacOS
+    - Sentry (~> 7.9.0)
+  - share_plus (0.0.1):
+    - Flutter
+  - shared_preferences_ios (0.0.1):
+    - Flutter
+  - sign_in_with_apple (0.0.1):
+    - Flutter
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - store_redirect (0.0.1):
+    - Flutter
+  - uni_links (0.0.1):
+    - Flutter
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - vibration (1.7.4-nullsafety.0):
+    - Flutter
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+  - workmanager (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - adjust_sdk (from `../module_flutter/.ios/.symlinks/plugins/adjust_sdk/ios`)
+  - appsflyer_sdk (from `../module_flutter/.ios/.symlinks/plugins/appsflyer_sdk/ios`)
+  - audioplayers (from `../module_flutter/.ios/.symlinks/plugins/audioplayers/ios`)
+  - connectivity_plus (from `../module_flutter/.ios/.symlinks/plugins/connectivity_plus/ios`)
+  - device_info_plus (from `../module_flutter/.ios/.symlinks/plugins/device_info_plus/ios`)
+  - firebase_analytics (from `../module_flutter/.ios/.symlinks/plugins/firebase_analytics/ios`)
+  - firebase_core (from `../module_flutter/.ios/.symlinks/plugins/firebase_core/ios`)
+  - firebase_messaging (from `../module_flutter/.ios/.symlinks/plugins/firebase_messaging/ios`)
+  - Flutter (from `../module_flutter/.ios/Flutter/engine`)
+  - flutter_dynamic_icon (from `../module_flutter/.ios/.symlinks/plugins/flutter_dynamic_icon/ios`)
+  - flutter_inappwebview (from `../module_flutter/.ios/.symlinks/plugins/flutter_inappwebview/ios`)
+  - flutter_local_notifications (from `../module_flutter/.ios/.symlinks/plugins/flutter_local_notifications/ios`)
+  - flutter_native_splash (from `../module_flutter/.ios/.symlinks/plugins/flutter_native_splash/ios`)
+  - FlutterPluginRegistrant (from `../module_flutter/.ios/Flutter/FlutterPluginRegistrant`)
+  - google_mobile_ads (from `../module_flutter/.ios/.symlinks/plugins/google_mobile_ads/ios`)
+  - home_widget (from `../module_flutter/.ios/.symlinks/plugins/home_widget/ios`)
+  - icloud_storage (from `../module_flutter/.ios/.symlinks/plugins/icloud_storage/ios`)
+  - in_app_review (from `../module_flutter/.ios/.symlinks/plugins/in_app_review/ios`)
+  - module_flutter (from `../module_flutter/.ios/Flutter`)
+  - mop (from `../module_flutter/.ios/.symlinks/plugins/mop/ios`)
+  - package_info_plus (from `../module_flutter/.ios/.symlinks/plugins/package_info_plus/ios`)
+  - path_provider_ios (from `../module_flutter/.ios/.symlinks/plugins/path_provider_ios/ios`)
+  - permission_handler_apple (from `../module_flutter/.ios/.symlinks/plugins/permission_handler_apple/ios`)
+  - qr_code_scanner (from `../module_flutter/.ios/.symlinks/plugins/qr_code_scanner/ios`)
+  - quick_actions (from `../module_flutter/.ios/.symlinks/plugins/quick_actions/ios`)
+  - sentry_flutter (from `../module_flutter/.ios/.symlinks/plugins/sentry_flutter/ios`)
+  - share_plus (from `../module_flutter/.ios/.symlinks/plugins/share_plus/ios`)
+  - shared_preferences_ios (from `../module_flutter/.ios/.symlinks/plugins/shared_preferences_ios/ios`)
+  - sign_in_with_apple (from `../module_flutter/.ios/.symlinks/plugins/sign_in_with_apple/ios`)
+  - sqflite (from `../module_flutter/.ios/.symlinks/plugins/sqflite/ios`)
+  - store_redirect (from `../module_flutter/.ios/.symlinks/plugins/store_redirect/ios`)
+  - uni_links (from `../module_flutter/.ios/.symlinks/plugins/uni_links/ios`)
+  - url_launcher_ios (from `../module_flutter/.ios/.symlinks/plugins/url_launcher_ios/ios`)
+  - vibration (from `../module_flutter/.ios/.symlinks/plugins/vibration/ios`)
+  - webview_flutter_wkwebview (from `../module_flutter/.ios/.symlinks/plugins/webview_flutter_wkwebview/ios`)
+  - workmanager (from `../module_flutter/.ios/.symlinks/plugins/workmanager/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Adjust
+    - AppsFlyerFramework
+    - FinApplet
+    - FinAppletExt
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseInstallations
+    - FirebaseMessaging
+    - FMDB
+    - Google-Mobile-Ads-SDK
+    - GoogleAppMeasurement
+    - GoogleDataTransport
+    - GoogleUserMessagingPlatform
+    - GoogleUtilities
+    - MTBBarcodeScanner
+    - nanopb
+    - OrderedSet
+    - PromisesObjC
+    - ReachabilitySwift
+    - Sentry
+
+EXTERNAL SOURCES:
+  adjust_sdk:
+    :path: "../module_flutter/.ios/.symlinks/plugins/adjust_sdk/ios"
+  appsflyer_sdk:
+    :path: "../module_flutter/.ios/.symlinks/plugins/appsflyer_sdk/ios"
+  audioplayers:
+    :path: "../module_flutter/.ios/.symlinks/plugins/audioplayers/ios"
+  connectivity_plus:
+    :path: "../module_flutter/.ios/.symlinks/plugins/connectivity_plus/ios"
+  device_info_plus:
+    :path: "../module_flutter/.ios/.symlinks/plugins/device_info_plus/ios"
+  firebase_analytics:
+    :path: "../module_flutter/.ios/.symlinks/plugins/firebase_analytics/ios"
+  firebase_core:
+    :path: "../module_flutter/.ios/.symlinks/plugins/firebase_core/ios"
+  firebase_messaging:
+    :path: "../module_flutter/.ios/.symlinks/plugins/firebase_messaging/ios"
+  Flutter:
+    :path: "../module_flutter/.ios/Flutter/engine"
+  flutter_dynamic_icon:
+    :path: "../module_flutter/.ios/.symlinks/plugins/flutter_dynamic_icon/ios"
+  flutter_inappwebview:
+    :path: "../module_flutter/.ios/.symlinks/plugins/flutter_inappwebview/ios"
+  flutter_local_notifications:
+    :path: "../module_flutter/.ios/.symlinks/plugins/flutter_local_notifications/ios"
+  flutter_native_splash:
+    :path: "../module_flutter/.ios/.symlinks/plugins/flutter_native_splash/ios"
+  FlutterPluginRegistrant:
+    :path: "../module_flutter/.ios/Flutter/FlutterPluginRegistrant"
+  google_mobile_ads:
+    :path: "../module_flutter/.ios/.symlinks/plugins/google_mobile_ads/ios"
+  home_widget:
+    :path: "../module_flutter/.ios/.symlinks/plugins/home_widget/ios"
+  icloud_storage:
+    :path: "../module_flutter/.ios/.symlinks/plugins/icloud_storage/ios"
+  in_app_review:
+    :path: "../module_flutter/.ios/.symlinks/plugins/in_app_review/ios"
+  module_flutter:
+    :path: "../module_flutter/.ios/Flutter"
+  mop:
+    :path: "../module_flutter/.ios/.symlinks/plugins/mop/ios"
+  package_info_plus:
+    :path: "../module_flutter/.ios/.symlinks/plugins/package_info_plus/ios"
+  path_provider_ios:
+    :path: "../module_flutter/.ios/.symlinks/plugins/path_provider_ios/ios"
+  permission_handler_apple:
+    :path: "../module_flutter/.ios/.symlinks/plugins/permission_handler_apple/ios"
+  qr_code_scanner:
+    :path: "../module_flutter/.ios/.symlinks/plugins/qr_code_scanner/ios"
+  quick_actions:
+    :path: "../module_flutter/.ios/.symlinks/plugins/quick_actions/ios"
+  sentry_flutter:
+    :path: "../module_flutter/.ios/.symlinks/plugins/sentry_flutter/ios"
+  share_plus:
+    :path: "../module_flutter/.ios/.symlinks/plugins/share_plus/ios"
+  shared_preferences_ios:
+    :path: "../module_flutter/.ios/.symlinks/plugins/shared_preferences_ios/ios"
+  sign_in_with_apple:
+    :path: "../module_flutter/.ios/.symlinks/plugins/sign_in_with_apple/ios"
+  sqflite:
+    :path: "../module_flutter/.ios/.symlinks/plugins/sqflite/ios"
+  store_redirect:
+    :path: "../module_flutter/.ios/.symlinks/plugins/store_redirect/ios"
+  uni_links:
+    :path: "../module_flutter/.ios/.symlinks/plugins/uni_links/ios"
+  url_launcher_ios:
+    :path: "../module_flutter/.ios/.symlinks/plugins/url_launcher_ios/ios"
+  vibration:
+    :path: "../module_flutter/.ios/.symlinks/plugins/vibration/ios"
+  webview_flutter_wkwebview:
+    :path: "../module_flutter/.ios/.symlinks/plugins/webview_flutter_wkwebview/ios"
+  workmanager:
+    :path: "../module_flutter/.ios/.symlinks/plugins/workmanager/ios"
+
+SPEC CHECKSUMS:
+  Adjust: 94f1c99429fb2a7ebe530294fd66a88d63a54922
+  adjust_sdk: bf9c14dff11a7ce79ebf8a183c48c5a293dd8054
+  appsflyer_sdk: 1e59c8c01aeeab556f299cbe66bf769862026cdb
+  AppsFlyerFramework: 9f304d91cc80b6579b1206a59220383056b58b47
+  audioplayers: 455322b54050b30ea4b1af7cd9e9d105f74efa8c
+  connectivity_plus: 413a8857dd5d9f1c399a39130850d02fe0feaf7e
+  device_info_plus: e5c5da33f982a436e103237c0c85f9031142abed
+  FinApplet: 820011268edcebe88ab6991367ec52bb43afda55
+  FinAppletExt: 506d22aacf413f805631fe754a0db44ab327f398
+  Firebase: 44dd9724c84df18b486639e874f31436eaa9a20c
+  firebase_analytics: 20841ef6a705a412c737deb2fe98290e9242d323
+  firebase_core: 08f6a85f62060111de5e98d6a214810d11365de9
+  firebase_messaging: 36238f3d0b933af8c919aef608408aae06ba22e8
+  FirebaseAnalytics: 4e4b13031034e6561ed3bd1d47b6fdabbd6487c6
+  FirebaseCore: 2f4f85b453cc8fea4bb2b37e370007d2bcafe3f0
+  FirebaseCoreDiagnostics: c2836d254a8f0bbb4121ff18f2c2ea39d118fd08
+  FirebaseInstallations: 60edbf7e11d91ae4c751d26c200dfd037099abe0
+  FirebaseMessaging: 02e248e8997f71fa8cc9d78e9d49ec1a701ba14a
+  Flutter: bdfa2e8fe0e2880a2c6a58a0b1a8675c262a07af
+  flutter_dynamic_icon: fb0cd2f84c817c1a0ddbbc383fbebec3cd5e88d8
+  flutter_inappwebview: bfd58618f49dc62f2676de690fc6dcda1d6c3721
+  flutter_local_notifications: 0c0b1ae97e741e1521e4c1629a459d04b9aec743
+  flutter_native_splash: 52501b97d1c0a5f898d687f1646226c1f93c56ef
+  FlutterPluginRegistrant: 3eca33320fa75e18b2469777b2715ac114cf0bdc
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  Google-Mobile-Ads-SDK: be2192b51b74d74a6ed70590c2e8275412f1b71e
+  google_mobile_ads: a2f8b901601401bf7e691b4224d5992e9a37599a
+  GoogleAppMeasurement: aa3cb422fab2b05d2efac543a5720d1a85b9dea5
+  GoogleDataTransport: 629c20a4d363167143f30ea78320d5a7eb8bd940
+  GoogleUserMessagingPlatform: ab890ce5f6620f293a21b6bdd82e416a2c73aeca
+  GoogleUtilities: e0913149f6b0625b553d70dae12b49fc62914fd1
+  home_widget: 2829415127ee92e876f816cbbe44c0b6601b8a37
+  icloud_storage: b12a6ab3ae196b4104f1e7a6fe0c4f05ac1dc1ee
+  in_app_review: 4a97249f7a2f539a0f294c2d9196b7fe35e49541
+  module_flutter: 9be06766d3fbb62f68e7b514b752334a9e3f2636
+  mop: 7490655e6a9c192efc31d0012f36b11d5068d133
+  MTBBarcodeScanner: f453b33c4b7dfe545d8c6484ed744d55671788cb
+  nanopb: a0ba3315591a9ae0a16a309ee504766e90db0c96
+  OrderedSet: aaeb196f7fef5a9edf55d89760da9176ad40b93c
+  package_info_plus: 6c92f08e1f853dc01228d6f553146438dafcd14e
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
+  permission_handler_apple: d21b38e1a4b2e041c63af9568f9165e114e507a6
+  PromisesObjC: 68159ce6952d93e17b2dfe273b8c40907db5ba58
+  qr_code_scanner: bb67d64904c3b9658ada8c402e8b4d406d5d796e
+  quick_actions: cd83314083fa994182e6cd9e7516167a215a4f83
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Sentry: 2f7e91f247cfb05b05bd01e0b5d0692557a7687b
+  sentry_flutter: 7c3cb050dc23563a4ea5db438c83afdb460a2ae6
+  share_plus: 056a1e8ac890df3e33cb503afffaf1e9b4fbae68
+  shared_preferences_ios: 548a61f8053b9b8a49ac19c1ffbc8b92c50d68ad
+  sign_in_with_apple: f3bf75217ea4c2c8b91823f225d70230119b8440
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+  store_redirect: 2977747cf81689a39bd62c248c2deacb7a0d131e
+  uni_links: d97da20c7701486ba192624d99bffaaffcfc298a
+  url_launcher_ios: 839c58cdb4279282219f5e248c3321761ff3c4de
+  vibration: 1ec279c4a1a7a646627b54039d812334b3f1114a
+  webview_flutter_wkwebview: 005fbd90c888a42c5690919a1527ecc6649e1162
+  workmanager: 0afdcf5628bbde6924c21af7836fed07b42e30e6
+
+PODFILE CHECKSUM: 85ff0653347e2c8b3a3a95e01ddbb121633f2bf2
+
+COCOAPODS: 1.11.2

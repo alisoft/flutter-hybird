@@ -1,0 +1,5 @@
+template-arb-file: intl_en.arb
+#output-dir: lib/gen_l10n
+output-class: ModuleFlutterLocalizations
+output-localization-file: module_flutter_localizations.dart
+#synthetic-package: false

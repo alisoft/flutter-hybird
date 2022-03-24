@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>582105178639-ooijj0u6pkmt4jf907bg3t34mcf5i1fg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.582105178639-ooijj0u6pkmt4jf907bg3t34mcf5i1fg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzwj_eN6ftmmKQmaT9FeztEplU-8hRroI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>582105178639</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.alisoft.apps.module-ios</string>
+	<key>PROJECT_ID</key>
+	<string>flutterhybird</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterhybird.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:582105178639:ios:5b4601d443fdae11e6b97a</string>
+</dict>
+</plist>

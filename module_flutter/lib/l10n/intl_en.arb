@@ -1,0 +1,473 @@
+{
+  "title": "Gitter",
+  "@title": {
+    "description": "The title of app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Welcome.",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "update": "Update",
+  "@update": {
+    "description": "Update.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "failure": "Failure",
+  "@failure": {
+    "description": "Failure.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "success": "Success",
+  "@success": {
+    "description": "Success.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noData": "No Data",
+  "@noData": {
+    "description": "No Data.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Oops, network error, please click on the screen to try again",
+  "@error": {
+    "description": "Oops, network error, please click on the screen to try again.",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "tabHomeTitle": "Home",
+  "@tabHomeTitle": {
+    "description": "Title for home tab of bottom navigation.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tabStoreTitle": "Store",
+  "@tabStoreTitle": {
+    "description": "Title for store tab of bottom navigation.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tabSearchTitle": "Search",
+  "@tabSearchTitle": {
+    "description": "Title for Search tab of bottom navigation.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tabCartTitle": "Cart",
+  "@tabCartTitle": {
+    "description": "Title for cart tab of bottom navigation.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tabMeTitle": "Me",
+  "@tabMeTitle": {
+    "description": "Title for Me tab of bottom navigation.",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "loading": "Loading",
+  "@loading": {
+    "description": "Loading.",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "login": "Login",
+  "@login": {
+    "description": "Login.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "exit": "Exit",
+  "@exit": {
+    "description": "Exit.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "agree": "Agree",
+  "@agree": {
+    "description": "Agree.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyTitle": "Privacy Statement",
+  "@privacyTitle": {
+    "description": "Privacy Title.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyContent": "Your personal information obtained by this application will not be sent to third-party servers other than GitHub.",
+  "@privacyContent": {
+    "description": "Privacy Content.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "alertWithTitleText": "Privacy statement: Gitter will not collect any information from your GitHub account, please rest assured to use",
+  "@alertWithTitleText": {
+    "description": "Alert Title Text.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accessTokenHelperTitle": "Create a personal access token for the command line",
+  "@accessTokenHelperTitle": {
+    "description": "Access Token Helper Title.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accessToken": "Access Token",
+  "@accessToken": {
+    "description": "Access Token.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginWithGitHub": "Login With GitHub",
+  "@loginWithGitHub": {
+    "description": "Login With GitHub.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "personalAccessToken": "Personal Access Token",
+  "@personalAccessToken": {
+    "description": "Personal Access Token.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accessTokenNotEmpty": "Access token cannot be empty.",
+  "@accessTokenNotEmpty": {
+    "description": "Access token cannot be empty.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accessTokenError": "Unable to obtain user information, which may be caused by non-compliance of the access token.",
+  "@accessTokenError": {
+    "description": "Unable to obtain user information, which may be caused by non-compliance of the access token.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accessPermissions": "Access permissions",
+  "@accessPermissions": {
+    "description": "Access permissions.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "public": "Public Repos",
+  "@public": {
+    "description": "Public Repos.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "private": "Public & Private Repos",
+  "@private": {
+    "description": "Public & Private Repos.",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "searchHit": "Search",
+  "@searchHit": {
+    "description": "Search Hit.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchRepo": "Repositories",
+  "@searchRepo": {
+    "description": "Repositories.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchWithRepo": "Repositories With \"{value}\"",
+  "@searchWithRepo": {
+    "description": "Search With Repositories.",
+    "type": "text",
+    "placeholders": {
+      "value": {
+        "example": " "
+      }
+    }
+  },
+  "searchIssues": "Issues",
+  "@searchIssues": {
+    "description": "Issues.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchWithIssues": "Issues With \"{value}\"",
+  "@searchWithIssues": {
+    "description": "Search With Issues.",
+    "type": "text",
+    "placeholders": {
+      "value": {
+        "example": " "
+      }
+    }
+  },
+  "searchPulls": "Pull Requests",
+  "@searchPulls": {
+    "description": "Pull Requests.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchWithPulls": "Pull Requests With \"{value}\"",
+  "@searchWithPulls": {
+    "description": "Search With Pull Requests.",
+    "type": "text",
+    "placeholders": {
+      "value": {
+        "example": " "
+      }
+    }
+  },
+  "searchPeople": "People",
+  "@searchPeople": {
+    "description": "People.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchWithPeople": "People With \"{value}\"",
+  "@searchWithPeople": {
+    "description": "Search With People.",
+    "type": "text",
+    "placeholders": {
+      "value": {
+        "example": " "
+      }
+    }
+  },
+  "searchOrg": "Organizations",
+  "@searchOrg": {
+    "description": "Organizations.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchWithOrg": "Organizations With \"{value}\"",
+  "@searchWithOrg": {
+    "description": "Search With Organizations.",
+    "type": "text",
+    "placeholders": {
+      "value": {
+        "example": " "
+      }
+    }
+  },
+  "searchJumpTo": "Jump to \"{value}\"",
+  "@searchJumpTo": {
+    "description": "Jump to.",
+    "type": "text",
+    "placeholders": {
+      "value": {
+        "example": " "
+      }
+    }
+  },
+  "searchSpeakingTitle": "You can say like this",
+  "@searchSpeakingTitle": {
+    "description": "Search Speaking Title.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchLongPress": "Long press to talk",
+  "@searchLongPress": {
+    "description": "Long press to talk.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchSpeaking": "- Identifying -",
+  "@searchSpeaking": {
+    "description": "Search Speaking.",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "name": "Nickname",
+  "@name": {
+    "description": "Nickname.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bio": "Description",
+  "@bio": {
+    "description": "Description.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "team": "Team",
+  "@team": {
+    "description": "Team.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "location": "Location",
+  "@location": {
+    "description": "Location.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "blog": "Blog",
+  "@blog": {
+    "description": "Blog.",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "apps": "Mini Apps",
+  "@apps": {
+    "description": "Mini Apps.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "clearCache": "Clear Cache",
+  "@clearCache": {
+    "description": "Clear Cache.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tactileFeedback": "Tactile Feedback",
+  "@tactileFeedback": {
+    "description": "Tactile Feedback.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "clickSound": "Click Sound",
+  "@clickSound": {
+    "description": "Click Sound.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullScreenGestureReturn": "Full screen gesture return",
+  "@fullScreenGestureReturn": {
+    "description": "Full screen gesture return.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "Dark Mode.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bottomTabBar": "Customize the bottom bar",
+  "@bottomTabBar": {
+    "description": "Customize the bottom bar.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "languages": "Language",
+  "@languages": {
+    "description": "Language.",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "about": "About",
+  "@about": {
+    "description": "About.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "author": "Author",
+  "@author": {
+    "description": "Author.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "copyText": "Copied to pasteboard",
+  "@copyText": {
+    "description": "Copied to pasteboard.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "scoring": "Scoring",
+  "@scoring": {
+    "description": "Scoring.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "share": "Share",
+  "@share": {
+    "description": "Share.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "blockUsers": "Block Users",
+  "@blockUsers": {
+    "description": "Block Users.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "qqGroup": "QQ Group",
+  "@qqGroup": {
+    "description": "QQ Group.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "help": "Help",
+  "@help": {
+    "description": "Help.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacy": "Privacy",
+  "@privacy": {
+    "description": "Privacy.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "license": "License",
+  "@license": {
+    "description": "License.",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "feedback": "Feedback",
+  "@feedback": {
+    "description": "Feedback.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "Submit.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tips": "Note: Feedback will be submitted to the GitHub repository in the form of issues",
+  "@tips": {
+    "description": "Note: Feedback will be submitted to the GitHub repository in the form of issues.",
+    "type": "text",
+    "placeholders": {}
+  }
+}
