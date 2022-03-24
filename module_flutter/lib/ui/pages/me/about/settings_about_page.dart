@@ -42,7 +42,7 @@ class SettingsAboutPage extends StatelessWidget {
                 child: CachedNetworkImage(
                   width: 80,
                   height: 80,
-                  imageUrl: 'https://cdn.gitterapp.com/logo/flutter_boilerplate.png',
+                  imageUrl: 'https://cdn.gitterapp.com/logo/flutter_hybird.png',
                   placeholder: (context, url) => const Padding(
                     padding: EdgeInsets.all(4),
                     child: Loader(

@@ -107,7 +107,7 @@ class _SplashPageState extends State<SplashPage>
             ),
             navigateAfterSeconds: _widget,
             image: Image.network(
-                'https://cdn.gitterapp.com/logo/flutter_boilerplate.png'),
+                'https://cdn.gitterapp.com/logo/flutter_hybird.png'),
             styleTextUnderTheLoader: const TextStyle(),
             backgroundColor: _theme.colorScheme.background,
             photoSize: 100.0,
