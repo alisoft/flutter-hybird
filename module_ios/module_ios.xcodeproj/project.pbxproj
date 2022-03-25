@@ -43,6 +43,7 @@
 		05177AF90C463C0CC7F8C134 /* Pods-module_ios-module_iosUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-module_ios-module_iosUITests.release.xcconfig"; path = "Target Support Files/Pods-module_ios-module_iosUITests/Pods-module_ios-module_iosUITests.release.xcconfig"; sourceTree = "<group>"; };
 		2E2AD46B27EB3DCC0080E5BC /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		2E2AD46F27EC985F0080E5BC /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		2E77973427EDDE70008728F5 /* module_ios.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = module_ios.entitlements; sourceTree = "<group>"; };
 		2EEA249327EAAD8F00FD16A7 /* module_ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = module_ios.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EEA249627EAAD8F00FD16A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2EEA249A27EAAD8F00FD16A7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -129,6 +130,7 @@
 		2EEA249527EAAD8F00FD16A7 /* module_ios */ = {
 			isa = PBXGroup;
 			children = (
+				2E77973427EDDE70008728F5 /* module_ios.entitlements */,
 				2E2AD46B27EB3DCC0080E5BC /* GoogleService-Info.plist */,
 				2EEA249627EAAD8F00FD16A7 /* AppDelegate.swift */,
 				2EEA249A27EAAD8F00FD16A7 /* ViewController.swift */,
@@ -603,6 +605,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = module_ios/module_ios.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 43V9N6VW8L;
@@ -635,6 +638,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = module_ios/module_ios.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Qingdao INSCO Network Technology Co., Ltd. (43V9N6VW8L)";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;

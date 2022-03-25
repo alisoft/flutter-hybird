@@ -4,6 +4,18 @@
 <dict>
 	<key>GADApplicationIdentifier</key>
 	<string>ca-app-pub-3943836014370168~9466965323</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs camera access to scan QR codes</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This app requires location access to use.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app requires location access to use.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app requires microphone access to use voice recognition technology.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app requires photo access to use.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>This identifier will be used to deliver personalized ads to you.</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
