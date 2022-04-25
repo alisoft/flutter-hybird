@@ -26,6 +26,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         self.window = UIWindow.init(frame: UIScreen.main.bounds)
         self.window?.backgroundColor = .white
         let flutterVC = FlutterViewController(engine: self.engine!, nibName: nil, bundle: nil)
+        
+        let activityIndicator = UIActivityIndicatorView(frame: CGRect(x: 0, y: 0, width: 40.0, height: 40.0))
+        activityIndicator.startAnimating()
+        activityIndicator.hidesWhenStopped = true
+        flutterVC.splashScreenView = activityIndicator
+        
         self.window?.rootViewController = flutterVC
         self.window?.makeKeyAndVisible()
         return true
