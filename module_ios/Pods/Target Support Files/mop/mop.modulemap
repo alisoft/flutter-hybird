@@ -1,6 +1,0 @@
-framework module mop {
-  umbrella header "mop-umbrella.h"
-
-  export *
-  module * { export * }
-}
